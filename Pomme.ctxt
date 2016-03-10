@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pomme()
+comment1.params=poids
+comment1.target=Pomme(double)
+comment2.params=
+comment2.target=double\ getPoids()
+comment3.params=poids
+comment3.target=void\ setPoids(double)
+comment4.params=ornithorynque
+comment4.target=void\ setOrnithorynque(Ornithorynque)
+comment5.params=
+comment5.target=void\ estMangee()
+numComments=6

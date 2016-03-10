@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ornithorynque()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ornithorynque\r\n
+comment1.params=taille\ poids
+comment1.target=Ornithorynque(double,\ double)
+comment2.params=
+comment2.target=double\ IMC()
+comment3.params=
+comment3.target=double\ getTaille()
+comment4.params=taille
+comment4.target=void\ setTaille(double)
+comment5.params=
+comment5.target=double\ getPoids()
+comment6.params=poids
+comment6.target=void\ setPoids(double)
+numComments=7
